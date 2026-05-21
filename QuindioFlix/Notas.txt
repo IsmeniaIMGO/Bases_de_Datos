@@ -1,0 +1,14 @@
+Se hizo las siguientes correcciones:
+
+-E1 Se agregaron instrucciones del orden de ejecución del proyecto
+para cada componente
+
+-E2 se agrego el archivo sql de ajuste de identidades
+
+-E1 Se omitio la fragmentacion para evitar dañar el esquema del proyecto
+
+-E1-E2 Se corrigieron nombres de algunos métodos
+
+-E1 Se agregaron permisos al usuario quindioflix
+
+-E2 Se corrigio el archivo de disparadores por error humano

@@ -1,0 +1,11 @@
+Orden de instalación como usuario system
+Nombre del servicio: XEPDB1
+
+1. QuindíoFlix_Raiz, dentro del sql modificar la ubicación.
+para cada persona es diferente, por eso hay uno para sebas y marce
+
+2. QuindíoFlix_dev
+
+3. PoblaciónQuindioFlix
+
+4. Ajuste de identidades

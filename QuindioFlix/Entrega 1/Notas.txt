@@ -1,0 +1,4 @@
+Componente A: Documento de definición del proyecto
+Componente B: Diagramas
+Componente C: Creación del proyecto
+Componente D: Consultas, Pivot-Unpivot, Funciones, Vistas materializadas
